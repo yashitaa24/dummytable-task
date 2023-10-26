@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummytable-task/static/css/main.496f6dc8.css",
+    "main.js": "/dummytable-task/static/js/main.b563f0dc.js",
+    "index.html": "/dummytable-task/index.html",
+    "main.496f6dc8.css.map": "/dummytable-task/static/css/main.496f6dc8.css.map",
+    "main.b563f0dc.js.map": "/dummytable-task/static/js/main.b563f0dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496f6dc8.css",
+    "static/js/main.b563f0dc.js"
+  ]
+}
